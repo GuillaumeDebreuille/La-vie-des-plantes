@@ -1,0 +1,32 @@
+[27-Mar-2025 22:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php:347
+Stack trace:
+#0 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php on line 347
+[27-Mar-2025 22:44:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php:347
+Stack trace:
+#0 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php on line 347
+[27-Mar-2025 22:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php:347
+Stack trace:
+#0 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php on line 347
+[27-Mar-2025 22:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php:347
+Stack trace:
+#0 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-admin/admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in /home/guillaume/Local Sites/la-vie-des-plantes/app/public/wp-content/plugins/elementor/modules/ai/module.php on line 347

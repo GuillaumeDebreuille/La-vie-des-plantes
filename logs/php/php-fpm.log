@@ -1,0 +1,78 @@
+[15-Mar-2025 19:43:16] NOTICE: fpm is running, pid 5595
+[15-Mar-2025 19:43:16] NOTICE: ready to handle connections
+[15-Mar-2025 19:44:49] NOTICE: Terminating ...
+[15-Mar-2025 19:44:49] NOTICE: Terminating ...
+[15-Mar-2025 19:44:49] NOTICE: exiting, bye-bye!
+[17-Mar-2025 20:28:34] NOTICE: fpm is running, pid 3786
+[17-Mar-2025 20:28:34] NOTICE: ready to handle connections
+[17-Mar-2025 21:23:03] NOTICE: Terminating ...
+[17-Mar-2025 21:23:03] NOTICE: exiting, bye-bye!
+[21-Mar-2025 19:43:45] NOTICE: fpm is running, pid 3887
+[21-Mar-2025 19:43:45] NOTICE: ready to handle connections
+[22-Mar-2025 12:07:28] NOTICE: Terminating ...
+[22-Mar-2025 12:07:28] NOTICE: exiting, bye-bye!
+[27-Mar-2025 21:42:45] NOTICE: fpm is running, pid 3884
+[27-Mar-2025 21:42:45] NOTICE: ready to handle connections
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:10:43] WARNING: [pool www] child 3895 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:11:03] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:11:09] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:11:17] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:11:18] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: --help: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/local/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/mysql/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql6/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /opt/local/lib/mysql5/bin/mysqldump: not found"
+[28-Mar-2025 00:12:02] WARNING: [pool www] child 3894 said into stderr: "sh: 1: /usr/bin/mysqldump: not found"
